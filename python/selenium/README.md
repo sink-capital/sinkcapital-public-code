@@ -23,10 +23,15 @@ $ docker build -t tmp-train .
 $ docker run -v `pwd`:/usr/src/app tmp-train
   Google
   Python - Google 検索
-  プログラミング言語 Python - python.jp
-  https://www.python.jp/
-  --------
-...
+  ('プログラミング言語 Python - python.jp', 'https://www.python.jp/')
+  ('Welcome to Python.org', 'https://www.python.org/')
+  ('Pythonってどんな言語なの？ (1/2)：Python入門 - ＠IT', 'https://www.atmarkit.co.jp/ait/articles/1904/02/news024.html')
+  ('Python | プログラミングの入門なら基礎から学べるProgate ...', 'https://prog-8.com/languages/python')
+  ('Python - ウィキペディア', 'https://ja.wikipedia.org/wiki/Python')
+  ('Python入門 ～Pythonのインストール方法やPythonを使った ...', 'https://www.javadrive.jp/python/')
+  ('Pythonとは？大人気プログラミング言語のメリットや活用事例 ...', 'https://www.internetacademy.jp/it/programming/programming-basic/what-is-python.html')
+  ('Python - Qiita', 'https://qiita.com/tags/python')
+  ('とほほのPython入門 - とほほのWWW入門', 'http://www.tohoho-web.com/python/')
 ```
 
 ## 参考リンク

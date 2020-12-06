@@ -37,7 +37,7 @@ def insert_data(tname, data):
 
 if __name__ == '__main__':
     create_table(table_name)
-    # 特定のサイト（Yahoo!検索）にアクセスする
+    # 特定のサイト（Google検索）にアクセスする
     driver.get("https://google.co.jp")
 
     print(driver.title)
