@@ -31,3 +31,5 @@ $ docker run -v `pwd`:/usr/src/app tmp-train
 
 ## 参考リンク
 - [たった3行のpythonで始めるSelenium入門](https://qiita.com/mastar_3104/items/0a1ce2bfa1d29287bc35)
+- [Docker上で、Python + Selenium + Headless Chromeを使用してWEBスクレイピング](https://oliversi.com/2019/01/07/python-docker-selenium-chrome/)
+- [スクレイピング初心者が３時間でスクレイピングをやってみた](https://qiita.com/yuji_sakurai/items/c3720c899593b7ab3ba8)
